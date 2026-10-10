@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I032
 ### Team Details
-#### Team Name <SARAL FORGE> 
+#### Team Name SARAL FORGE
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
